@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__
+*.egg-info
+
+# Data
+test_imgs
+logs
+src/ablation
+src/archive
+src/test_imgs
+src/output
+src/models/llava/llava-v1.5-7b
+src/models/llava/llava-v1.5-13b
+src/models/lavis/vicuna-7b-v1.1
+*.ttf
