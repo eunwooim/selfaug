@@ -258,4 +258,3 @@ dependencies:
       - xxhash==3.5.0
       - yarg==0.1.9
       - yarl==1.20.1
-prefix: /home/eunwooim/.conda/envs/vcd
